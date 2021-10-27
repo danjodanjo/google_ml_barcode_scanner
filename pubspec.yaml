@@ -1,6 +1,6 @@
 name: google_ml_barcode_scanner
 description: A standalone barcode scanner plugin using Google Ml Kit.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/danjodanjo/google_ml_barcode_scanner
 
 environment:
